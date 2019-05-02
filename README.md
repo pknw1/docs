@@ -1,7 +1,7 @@
 <div class="row" style="display: table; clear: both;">
   <div class="column" style="background-color:#000; float: left; width: 30%; padding: 10px; height: 200px;">
 
-![vbl-logo-l.png](/.images/logo.png)
+![vbl-logo-l.png](/items.png)
 
 </div>
   <div class="column" style="background-color:#00; float: left; width: 40%; padding: 10px; height: 200px;">
